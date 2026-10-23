@@ -1,15 +1,15 @@
 # Hey, I'm Hussain 👋
 
 🎓 BS Computer Science student  
-💻 WordPress & web developer  
+💻 WordPress and web developer  
 🚀 Exploring JavaScript, React, and Node.js  
-🌱 Building practical projects and learning in public
+🌱 Building practical tools and learning in public
 
-## What I'm working on
+## What I'm building
 
-- Growing my WordPress and web development skills
-- Learning JavaScript, React, and Node.js by building
-- Exploring APIs, automation, and useful developer tools
+- **[Focus Flow](https://github.com/mhussain-codes/focus-flow)** — a focused Pomodoro timer with saved tasks and sessions.
+- **[WordPress Page Audit](https://github.com/mhussain-codes/wordpress-page-audit)** — quick SEO and accessibility checks for pasted page HTML.
+- **[Color Contrast Checker](https://github.com/mhussain-codes/color-contrast-checker)** — live WCAG contrast ratios, color previews, and CSS copying.
 
 ## Tech I use and explore
 
@@ -18,21 +18,9 @@
 **CMS:** WordPress · WooCommerce  
 **Tools:** Git · GitHub · VS Code
 
-## Featured project
+## Learning path
 
-### [Focus Flow](https://github.com/mhussain-codes/focus-flow)
-
-A clean Pomodoro timer for study sessions, with focus and break modes, task saving, and a session counter. Built with HTML, CSS, and vanilla JavaScript.
-
-## Next build idea
-
-### WordPress Site Health Buddy
-
-A beginner-friendly tool that checks a WordPress site's basics—broken links, page titles, and security headers—and turns the results into a clear action list.
-
-## My learning path
-
-JavaScript → React → Node.js → full-stack projects
+JavaScript → React → Node.js → practical full-stack projects
 
 ---
 
