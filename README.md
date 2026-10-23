@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hussain-awan-b64314282/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Hussain Awan on LinkedIn" /></a>
-  <a href="https://hussainwebsolutions.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Hussain Awan's web development portfolio" /></a>
+  <a href="https://hussain-web-solutions.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Hussain Awan's web development portfolio" /></a>
   <a href="https://github.com/mhussain-codes?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-171515?style=for-the-badge&logo=github&logoColor=white" alt="Browse Hussain Awan's GitHub projects" /></a>
 </p>
 
