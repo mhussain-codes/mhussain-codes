@@ -1,71 +1,33 @@
-# Hi, I'm M. Hussain 👋
+# Hey, I'm Hussain 👋
 
-🎓 BS Computer Science Student  
-💻 WordPress & Web Developer  
-🚀 Learning JavaScript, React & Node.js  
-🧠 Building projects every day
+🎓 BS Computer Science student  
+💻 WordPress & web developer  
+🚀 Exploring JavaScript, React, and Node.js  
+🌱 Building practical projects and learning in public
 
-## 🚀 Current Focus
+## What I'm working on
 
-- WordPress Development
-- JavaScript
-- React
-- Node.js
-- REST APIs
-- Git & GitHub
-- Web Development
-- Automation
+- Growing my WordPress and web development skills
+- Learning JavaScript, React, and Node.js by building
+- Exploring APIs, automation, and useful developer tools
 
-## 🛠️ Tech Stack
+## Tech I use and explore
 
-### Frontend
-HTML
-CSS
-JavaScript
-React
+**Web:** HTML · CSS · JavaScript · React  
+**Backend:** Node.js · Express · REST APIs  
+**CMS:** WordPress · WooCommerce  
+**Tools:** Git · GitHub · VS Code
 
-### Backend
-Node.js
-Express
+## Next build idea
 
-### CMS
-WordPress
-WooCommerce
+### WordPress Site Health Buddy
 
-### Programming
-C++
+A small, beginner-friendly tool that checks a WordPress site's basics—broken links, page titles, and security headers—and turns the results into a clear action list.
 
-### Tools
-Git
-GitHub
-VS Code
+## My learning path
 
-## 📈 45-Day Coding Challenge
-
-I'm building and documenting my coding journey through daily projects.
-
-### Goals
-
-- Build real-world projects
-- Improve JavaScript
-- Master WordPress development
-- Learn React
-- Learn Node.js
-- Build full-stack applications
-- Maintain daily GitHub activity
-
-## 🚀 Projects
-
-Coming soon...
-
-## 📚 Currently Learning
-
-JavaScript → React → Node.js → Full Stack
-
-## 👨‍💻 About Me
-
-I'm a BS Computer Science student focused on becoming a practical web developer by building real projects and continuously improving my skills.
+JavaScript → React → Node.js → full-stack projects
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for stopping by. I'm learning by making useful things, one project at a time.
