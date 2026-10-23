@@ -1,17 +1,18 @@
 <p align="center">
-  <img src="./assets/profile-coding.svg" alt="Animated coding desk banner — Hussain, web developer" width="100%" />
+  <img src="./assets/profile-coding.svg" alt="Hussain Awan, web developer in Pakistan" width="100%" />
 </p>
 
-<h1 align="center">Hey, I'm Hussain 👋</h1>
+<h1 align="center">Hussain Awan | Web Developer in Pakistan 👋</h1>
 
-<p align="center"><b>Computer Science student · Web developer · Practical tool builder</b></p>
+<p align="center"><b>WordPress · Shopify · WooCommerce · React · AI Automation</b></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hussain-awan-b64314282/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" /></a>
-  <a href="https://github.com/mhussain-codes?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-171515?style=for-the-badge&logo=github&logoColor=white" alt="Browse my GitHub projects" /></a>
+  <a href="https://www.linkedin.com/in/hussain-awan-b64314282/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Hussain Awan on LinkedIn" /></a>
+  <a href="https://hussainwebsolutions.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Hussain Awan's web development portfolio" /></a>
+  <a href="https://github.com/mhussain-codes?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-171515?style=for-the-badge&logo=github&logoColor=white" alt="Browse Hussain Awan's GitHub projects" /></a>
 </p>
 
-<p align="center">I build useful browser tools and WordPress experiences, with an eye for clean interfaces and accessibility. Based in Pakistan; learning in public.</p>
+<p align="center">I'm Hussain Awan, a Web Developer and BS Computer Science student based in Pakistan. I build useful browser tools and responsive WordPress, WooCommerce, and Shopify experiences, with a focus on clean interfaces, accessibility, and practical problem-solving.</p>
 
 ## 🧰 Tools I use and explore
 
