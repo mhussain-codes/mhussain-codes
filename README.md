@@ -18,11 +18,17 @@
 **CMS:** WordPress · WooCommerce  
 **Tools:** Git · GitHub · VS Code
 
+## Featured project
+
+### [Focus Flow](https://github.com/mhussain-codes/focus-flow)
+
+A clean Pomodoro timer for study sessions, with focus and break modes, task saving, and a session counter. Built with HTML, CSS, and vanilla JavaScript.
+
 ## Next build idea
 
 ### WordPress Site Health Buddy
 
-A small, beginner-friendly tool that checks a WordPress site's basics—broken links, page titles, and security headers—and turns the results into a clear action list.
+A beginner-friendly tool that checks a WordPress site's basics—broken links, page titles, and security headers—and turns the results into a clear action list.
 
 ## My learning path
 
