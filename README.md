@@ -1,22 +1,32 @@
-# Hey, I'm Hussain 👋
+# Hi, I'm Hussain 👋
 
-🎓 BS Computer Science student  
-💻 WordPress and web developer  
-🚀 Exploring JavaScript, React, and Node.js  
-🌱 Building practical tools and learning in public
+**Computer Science student · Web developer · Builder of practical tools**
 
-## What I'm building
+I build browser-based tools and WordPress experiences, with a focus on clean interfaces, accessibility, and useful details. Based in Pakistan and learning in public.
 
-- **[README Atelier](https://mhussain-codes.github.io/readme-atelier/)** — an original animated profile README studio that helps anyone create, preview, and export their own GitHub profile.
-- **[POSTER / LAB](https://mhussain-codes.github.io/pixel-poster-lab/)** — a generative poster studio with shareable seeds and crisp PNG export.
-- **[Focus Flow](https://github.com/mhussain-codes/focus-flow)** — a focused Pomodoro timer with saved tasks and sessions.
-- **[WordPress Page Audit](https://github.com/mhussain-codes/wordpress-page-audit)** — quick SEO and accessibility checks for pasted page HTML.
-- **[Color Contrast Checker](https://github.com/mhussain-codes/color-contrast-checker)** — live WCAG contrast ratios, color previews, and CSS copying.
+[LinkedIn](https://www.linkedin.com/in/hussain-awan-b64314282/) · [GitHub projects](https://github.com/mhussain-codes?tab=repositories)
 
-## Tech I use and explore
+## Featured projects
 
-**Web:** HTML · CSS · JavaScript · React  
-**Backend:** Node.js · Express · REST APIs  
-**CMS:** WordPress · WooCommerce  
-**Creative code:** Canvas API · generative art  
-**UI:** CSS animation · SVG · accessibility
+| Project | What it does | Links |
+|---|---|---|
+| **README Atelier** | Create, preview, and export a personalized GitHub profile README with an animated banner. | [Live app](https://mhussain-codes.github.io/readme-atelier/) · [Source](https://github.com/mhussain-codes/readme-atelier) |
+| **POSTER / LAB** | Make generative posters with shareable seeds and crisp PNG export. | [Live app](https://mhussain-codes.github.io/pixel-poster-lab/) · [Source](https://github.com/mhussain-codes/pixel-poster-lab) |
+| **Focus Flow** | A focused Pomodoro timer with saved tasks and sessions. | [Source](https://github.com/mhussain-codes/focus-flow) |
+| **WordPress Page Audit** | Check pasted page HTML for practical SEO and accessibility issues. | [Source](https://github.com/mhussain-codes/wordpress-page-audit) |
+| **Color Contrast Checker** | Test WCAG color contrast, preview colors, and copy CSS values. | [Source](https://github.com/mhussain-codes/color-contrast-checker) |
+
+## Skills & tools
+
+- **Web:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express, REST APIs
+- **CMS:** WordPress, WooCommerce
+- **Creative code:** Canvas API, generative art, SVG animation
+- **Quality:** accessibility, responsive UI, SEO fundamentals
+
+## Connect
+
+- **LinkedIn:** [linkedin.com/in/hussain-awan-b64314282](https://www.linkedin.com/in/hussain-awan-b64314282/)
+- **GitHub:** [github.com/mhussain-codes](https://github.com/mhussain-codes)
+
+*Building useful things, one project at a time.*
