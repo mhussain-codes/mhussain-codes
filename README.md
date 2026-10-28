@@ -14,6 +14,8 @@
 
 <p align="center">I'm Hussain Awan, a Web Developer and BS Computer Science student based in Pakistan. I build useful browser tools and responsive WordPress, WooCommerce, and Shopify experiences, with a focus on clean interfaces, accessibility, and practical problem-solving.</p>
 
+<p align="center"><b>Quick try:</b> <a href="https://mhussain-codes.github.io/day-01-image-under-100kb/">Compress an image to fit a 100 KB limit</a></p>
+
 ## 🧰 Tools I use and explore
 
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,wordpress,figma,git,github&perline=5" alt="HTML, CSS, JavaScript, React, Node.js, Express, WordPress, Figma, Git, and GitHub" /></p>
@@ -24,6 +26,7 @@
 
 | Project | Focus | Link |
 |---|---|---|
+| **Image Under 100 KB** | Private image compression for upload limits | [Try it](https://mhussain-codes.github.io/day-01-image-under-100kb/) · [Code](https://github.com/mhussain-codes/day-01-image-under-100kb) |
 | **README Atelier** | Animated GitHub profile README builder | [Live](https://mhussain-codes.github.io/readme-atelier/) · [Code](https://github.com/mhussain-codes/readme-atelier) |
 | **POSTER / LAB** | Generative posters with shareable seeds | [Live](https://mhussain-codes.github.io/pixel-poster-lab/) · [Code](https://github.com/mhussain-codes/pixel-poster-lab) |
 | **Focus Flow** | Pomodoro timer for focused study | [Code](https://github.com/mhussain-codes/focus-flow) |
