@@ -26,6 +26,9 @@
 
 | Project | Focus | Link |
 |---|---|---|
+| **Favicon Foundry** | Design a favicon and export SVG, PNG, and a web manifest | [Demo](https://mhussain-codes.github.io/day-08-favicon-maker/) · [Code](https://github.com/mhussain-codes/day-08-favicon-maker) |
+| **Link Tidy** | Clean tracking parameters from links in bulk | [Demo](https://mhussain-codes.github.io/day-07-link-tidy/) · [Code](https://github.com/mhussain-codes/day-07-link-tidy) |
+| **Timefold** | Compare meeting times across cities and time zones | [Demo](https://mhussain-codes.github.io/day-06-timezone-planner/) · [Code](https://github.com/mhussain-codes/day-06-timezone-planner) |
 | **Invoice Simple** | Create clean invoices with live totals and PDF export | [Live](https://mhussain-codes.github.io/day-03-invoice-maker/) · [Code](https://github.com/mhussain-codes/day-03-invoice-maker) |
 | **JSON Desk** | Format and validate JSON in your browser | [Live](https://mhussain-codes.github.io/day-02-json-formatter/) · [Code](https://github.com/mhussain-codes/day-02-json-formatter) |
 | **Image Under 100 KB** | Private image compression for upload limits | [Try it](https://mhussain-codes.github.io/day-01-image-under-100kb/) · [Code](https://github.com/mhussain-codes/day-01-image-under-100kb) |
