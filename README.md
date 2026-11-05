@@ -26,6 +26,7 @@
 
 | Project | Focus | Link |
 |---|---|---|
+| **Diff Desk** | Compare text versions and export line changes privately | [Demo](https://mhussain-codes.github.io/day-09-text-diff/) · [Code](https://github.com/mhussain-codes/day-09-text-diff) |
 | **Favicon Foundry** | Design a favicon and export SVG, PNG, and a web manifest | [Demo](https://mhussain-codes.github.io/day-08-favicon-maker/) · [Code](https://github.com/mhussain-codes/day-08-favicon-maker) |
 | **Link Tidy** | Clean tracking parameters from links in bulk | [Demo](https://mhussain-codes.github.io/day-07-link-tidy/) · [Code](https://github.com/mhussain-codes/day-07-link-tidy) |
 | **Timefold** | Compare meeting times across cities and time zones | [Demo](https://mhussain-codes.github.io/day-06-timezone-planner/) · [Code](https://github.com/mhussain-codes/day-06-timezone-planner) |
