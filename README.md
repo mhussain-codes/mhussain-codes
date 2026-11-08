@@ -26,6 +26,7 @@
 
 | Project | Focus | Link |
 |---|---|---|
+| **SafePaste** | Mask common private details in text before sharing | [Demo](https://mhussain-codes.github.io/day-12-private-redactor/) · [Code](https://github.com/mhussain-codes/day-12-private-redactor) |
 | **Worth It?** | Compare pack sizes and unit prices for everyday products | [Demo](https://mhussain-codes.github.io/day-11-unit-price/) · [Code](https://github.com/mhussain-codes/day-11-unit-price) |
 | **Pattern Bench** | Test regex patterns, inspect captures, and preview replacements | [Demo](https://mhussain-codes.github.io/day-10-regex-workbench/) · [Code](https://github.com/mhussain-codes/day-10-regex-workbench) |
 | **Diff Desk** | Compare text versions and export line changes privately | [Demo](https://mhussain-codes.github.io/day-09-text-diff/) · [Code](https://github.com/mhussain-codes/day-09-text-diff) |
