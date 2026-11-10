@@ -26,6 +26,7 @@
 
 | Project | Focus | Link |
 |---|---|---|
+| **Signoff Studio** | Build and copy a polished email signature in HTML or plain text | [Demo](https://mhussain-codes.github.io/day-15-email-signature-builder/) · [Code](https://github.com/mhussain-codes/day-15-email-signature-builder) |
 | **Linebreak Fixer** | Clean copied PDF text by joining wrapped lines and fixing spacing | [Demo](https://mhussain-codes.github.io/day-14-pdf-text-cleaner/) · [Code](https://github.com/mhussain-codes/day-14-pdf-text-cleaner) |
 | **Pocket Relay** | Short links to reopen a saved chat on phone or laptop | [Live](https://pocket-relay-steel.vercel.app/) · [Code](https://github.com/mhussain-codes/day-13-pocket-relay) |
 | **SafePaste** | Mask common private details in text before sharing | [Demo](https://mhussain-codes.github.io/day-12-private-redactor/) · [Code](https://github.com/mhussain-codes/day-12-private-redactor) |
