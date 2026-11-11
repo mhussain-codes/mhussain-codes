@@ -26,6 +26,7 @@
 
 | Project | Focus | Link |
 |---|---|---|
+| **Renewal Radar** | Track recurring subscriptions, monthly costs, and upcoming renewals | [Demo](https://mhussain-codes.github.io/day-16-renewal-radar/) · [Code](https://github.com/mhussain-codes/day-16-renewal-radar) |
 | **Signoff Studio** | Build and copy a polished email signature in HTML or plain text | [Demo](https://mhussain-codes.github.io/day-15-email-signature-builder/) · [Code](https://github.com/mhussain-codes/day-15-email-signature-builder) |
 | **Linebreak Fixer** | Clean copied PDF text by joining wrapped lines and fixing spacing | [Demo](https://mhussain-codes.github.io/day-14-pdf-text-cleaner/) · [Code](https://github.com/mhussain-codes/day-14-pdf-text-cleaner) |
 | **Pocket Relay** | Short links to reopen a saved chat on phone or laptop | [Live](https://pocket-relay-steel.vercel.app/) · [Code](https://github.com/mhussain-codes/day-13-pocket-relay) |
