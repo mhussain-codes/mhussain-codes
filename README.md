@@ -27,7 +27,7 @@
 | Project | Focus | Link |
 |---|---|---|
 | **Fairshare** | Split shared expenses and get a clear settlement plan | [Demo](https://mhussain-codes.github.io/day-18-fairshare/) · [Code](https://github.com/mhussain-codes/day-18-fairshare) |
-| **Packlight** | Build a tailored trip packing checklist and track progress | [Demo](https://mhussain-codes.github.io/day-17-packlight/) · [Code](https://github.com/mhussain-codes/day-17-packlight) |
+| **Tidebound** | Java harbor puzzle game with SQLite saved progress and scores | [Code](https://github.com/mhussain-codes/day-19-tidebound) |
 | **Renewal Radar** | Track subscriptions, monthly costs, and upcoming renewals | [Demo](https://mhussain-codes.github.io/day-16-renewal-radar/) · [Code](https://github.com/mhussain-codes/day-16-renewal-radar) |
 | **Pocket Relay** | Reopen a saved chat across phone and laptop with a short link | [Live](https://pocket-relay-steel.vercel.app/) · [Code](https://github.com/mhussain-codes/day-13-pocket-relay) |
 | **SafePaste** | Mask common private details before sharing text | [Demo](https://mhussain-codes.github.io/day-12-private-redactor/) · [Code](https://github.com/mhussain-codes/day-12-private-redactor) |
