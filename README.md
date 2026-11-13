@@ -26,6 +26,7 @@
 
 | Project | Focus | Link |
 |---|---|---|
+| **Fairshare** | Split shared expenses fairly and see a simple plan for settling up | [Demo](https://mhussain-codes.github.io/day-18-fairshare/) · [Code](https://github.com/mhussain-codes/day-18-fairshare) |
 | **Packlight** | Build a tailored trip packing checklist, track progress, and print or export it | [Demo](https://mhussain-codes.github.io/day-17-packlight/) · [Code](https://github.com/mhussain-codes/day-17-packlight) |
 | **Renewal Radar** | Track recurring subscriptions, monthly costs, and upcoming renewals | [Demo](https://mhussain-codes.github.io/day-16-renewal-radar/) · [Code](https://github.com/mhussain-codes/day-16-renewal-radar) |
 | **Signoff Studio** | Build and copy a polished email signature in HTML or plain text | [Demo](https://mhussain-codes.github.io/day-15-email-signature-builder/) · [Code](https://github.com/mhussain-codes/day-15-email-signature-builder) |
