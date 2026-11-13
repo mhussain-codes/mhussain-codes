@@ -26,28 +26,12 @@
 
 | Project | Focus | Link |
 |---|---|---|
-| **Fairshare** | Split shared expenses fairly and see a simple plan for settling up | [Demo](https://mhussain-codes.github.io/day-18-fairshare/) · [Code](https://github.com/mhussain-codes/day-18-fairshare) |
-| **Packlight** | Build a tailored trip packing checklist, track progress, and print or export it | [Demo](https://mhussain-codes.github.io/day-17-packlight/) · [Code](https://github.com/mhussain-codes/day-17-packlight) |
-| **Renewal Radar** | Track recurring subscriptions, monthly costs, and upcoming renewals | [Demo](https://mhussain-codes.github.io/day-16-renewal-radar/) · [Code](https://github.com/mhussain-codes/day-16-renewal-radar) |
-| **Signoff Studio** | Build and copy a polished email signature in HTML or plain text | [Demo](https://mhussain-codes.github.io/day-15-email-signature-builder/) · [Code](https://github.com/mhussain-codes/day-15-email-signature-builder) |
-| **Linebreak Fixer** | Clean copied PDF text by joining wrapped lines and fixing spacing | [Demo](https://mhussain-codes.github.io/day-14-pdf-text-cleaner/) · [Code](https://github.com/mhussain-codes/day-14-pdf-text-cleaner) |
-| **Pocket Relay** | Short links to reopen a saved chat on phone or laptop | [Live](https://pocket-relay-steel.vercel.app/) · [Code](https://github.com/mhussain-codes/day-13-pocket-relay) |
-| **SafePaste** | Mask common private details in text before sharing | [Demo](https://mhussain-codes.github.io/day-12-private-redactor/) · [Code](https://github.com/mhussain-codes/day-12-private-redactor) |
-| **Worth It?** | Compare pack sizes and unit prices for everyday products | [Demo](https://mhussain-codes.github.io/day-11-unit-price/) · [Code](https://github.com/mhussain-codes/day-11-unit-price) |
-| **Pattern Bench** | Test regex patterns, inspect captures, and preview replacements | [Demo](https://mhussain-codes.github.io/day-10-regex-workbench/) · [Code](https://github.com/mhussain-codes/day-10-regex-workbench) |
-| **Diff Desk** | Compare text versions and export line changes privately | [Demo](https://mhussain-codes.github.io/day-09-text-diff/) · [Code](https://github.com/mhussain-codes/day-09-text-diff) |
-| **Favicon Foundry** | Design a favicon and export SVG, PNG, and a web manifest | [Demo](https://mhussain-codes.github.io/day-08-favicon-maker/) · [Code](https://github.com/mhussain-codes/day-08-favicon-maker) |
-| **Link Tidy** | Clean tracking parameters from links in bulk | [Demo](https://mhussain-codes.github.io/day-07-link-tidy/) · [Code](https://github.com/mhussain-codes/day-07-link-tidy) |
-| **Timefold** | Compare meeting times across cities and time zones | [Demo](https://mhussain-codes.github.io/day-06-timezone-planner/) · [Code](https://github.com/mhussain-codes/day-06-timezone-planner) |
-| **Invoice Simple** | Create clean invoices with live totals and PDF export | [Live](https://mhussain-codes.github.io/day-03-invoice-maker/) · [Code](https://github.com/mhussain-codes/day-03-invoice-maker) |
-| **JSON Desk** | Format and validate JSON in your browser | [Live](https://mhussain-codes.github.io/day-02-json-formatter/) · [Code](https://github.com/mhussain-codes/day-02-json-formatter) |
-| **Image Under 100 KB** | Private image compression for upload limits | [Try it](https://mhussain-codes.github.io/day-01-image-under-100kb/) · [Code](https://github.com/mhussain-codes/day-01-image-under-100kb) |
-| **README Atelier** | Animated GitHub profile README builder | [Live](https://mhussain-codes.github.io/readme-atelier/) · [Code](https://github.com/mhussain-codes/readme-atelier) |
-| **POSTER / LAB** | Generative posters with shareable seeds | [Live](https://mhussain-codes.github.io/pixel-poster-lab/) · [Code](https://github.com/mhussain-codes/pixel-poster-lab) |
-| **Focus Flow** | Pomodoro timer for focused study | [Live](https://mhussain-codes.github.io/focus-flow/) · [Code](https://github.com/mhussain-codes/focus-flow) |
-| **WordPress Page Audit** | On-page SEO and accessibility checks | [Live](https://mhussain-codes.github.io/wordpress-page-audit/) · [Code](https://github.com/mhussain-codes/wordpress-page-audit) |
-| **Color Contrast Checker** | WCAG contrast checks and color previews | [Live](https://mhussain-codes.github.io/color-contrast-checker/) · [Code](https://github.com/mhussain-codes/color-contrast-checker) |
-| **CSV Cleanroom** | Clean messy CSV files privately in your browser | [Demo](https://mhussain-codes.github.io/day-04-csv-cleanroom/) · [Code](https://github.com/mhussain-codes/day-04-csv-cleanroom) |
-| **Screenshot Studio** | Annotate, redact, crop, and export screenshots locally | [Demo](https://mhussain-codes.github.io/day-05-screenshot-studio/) · [Code](https://github.com/mhussain-codes/day-05-screenshot-studio) |
-
+| **Fairshare** | Split shared expenses and get a clear settlement plan | [Demo](https://mhussain-codes.github.io/day-18-fairshare/) · [Code](https://github.com/mhussain-codes/day-18-fairshare) |
+| **Packlight** | Build a tailored trip packing checklist and track progress | [Demo](https://mhussain-codes.github.io/day-17-packlight/) · [Code](https://github.com/mhussain-codes/day-17-packlight) |
+| **Renewal Radar** | Track subscriptions, monthly costs, and upcoming renewals | [Demo](https://mhussain-codes.github.io/day-16-renewal-radar/) · [Code](https://github.com/mhussain-codes/day-16-renewal-radar) |
+| **Pocket Relay** | Reopen a saved chat across phone and laptop with a short link | [Live](https://pocket-relay-steel.vercel.app/) · [Code](https://github.com/mhussain-codes/day-13-pocket-relay) |
+| **SafePaste** | Mask common private details before sharing text | [Demo](https://mhussain-codes.github.io/day-12-private-redactor/) · [Code](https://github.com/mhussain-codes/day-12-private-redactor) |
+| **Invoice Simple** | Create invoices with live totals and PDF export | [Demo](https://mhussain-codes.github.io/day-03-invoice-maker/) · [Code](https://github.com/mhussain-codes/day-03-invoice-maker) |
+| **WordPress Page Audit** | Review on-page SEO and accessibility basics | [Demo](https://mhussain-codes.github.io/wordpress-page-audit/) · [Code](https://github.com/mhussain-codes/wordpress-page-audit) |
+| **Color Contrast Checker** | Check accessible contrast between two colors | [Demo](https://mhussain-codes.github.io/color-contrast-checker/) · [Code](https://github.com/mhussain-codes/color-contrast-checker) |
 <p align="center"><i>Design · build · learn · repeat</i></p>
